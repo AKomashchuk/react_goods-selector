@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACE,aACE,yBAAA,CAAA,iBAAkB,CAClB,uBACE,wBAAoC","file":"main.4a8515a8.chunk.css","sourcesContent":[".goods {\n  &__item {\n    width: max-content;\n    &--selected {\n      background-color: rgb(179, 102, 102);\n    }\n  }\n}\n"]}
